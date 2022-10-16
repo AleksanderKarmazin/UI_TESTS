@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="My suite" parallel="tests" thread-count="5">
+<!--    <test name="Test">-->
+<!--        <classes>-->
+<!--            <class name="com.dataart.selenium.tests.RegistrationTest"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+</suite>
